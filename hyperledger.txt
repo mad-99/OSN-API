@@ -1,1 +1,2 @@
 https://docs.docker.com/engine/install/ubuntu/
+docker logs -f <peer_id> ----> show logs of peer
